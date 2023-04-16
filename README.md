@@ -1,2 +1,2 @@
 # Java-course
-Simple Chatty Bot
+Introduction to Java course from JetBrains

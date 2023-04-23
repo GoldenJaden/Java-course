@@ -1,2 +1,2 @@
 # Java-course
-Introduction to Java course from JetBrains
+Introduction to Java from HyperSkill

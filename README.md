@@ -1,2 +1,2 @@
-# Java-course
-Introduction to Java from HyperSkill
+# Java-courses
+Hyperskill java courses
